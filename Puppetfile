@@ -1,0 +1,7 @@
+mod 'puppetlabs/stdlib'
+mod 'puppetlabs/inifile'
+mod 'puppetlabs/concat'
+mod 'puppetlabs/apt'
+mod 'puppetlabs/ntp',       '4.2.0'
+mod 'puppetlabs/xinetd',    '2.0.0'
+mod 'rodjek-logrotate'
